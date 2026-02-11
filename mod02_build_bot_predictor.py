@@ -13,8 +13,8 @@ def train_model(X, y, seed=seed):
         learning_rate=0.01,
         n_estimators=250,
         max_depth=3,
-        subsample=0.5,
-        min_samples_leaf=20,
+        subsample=0.3,
+        min_samples_leaf=8,
         random_state=seed
     )
     model.fit(X, y)
