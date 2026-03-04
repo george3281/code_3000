@@ -10,7 +10,8 @@ If this code or data were exposed to unintended users, the main risks are:
 2. Data misuse and privacy concerns:  
 
 - If given to other students of the course, they could copy my work which would be a violation of academic integrity.  
-- If write access is compromised, unauthorized changes could alter scripts and inject malicious code.  
+- If write access is compromised, unauthorized changes could alter scripts and inject malicious code. 
+- Anonymous datasets can be reidentified and misused.
 
 Overall risk is low.
 
